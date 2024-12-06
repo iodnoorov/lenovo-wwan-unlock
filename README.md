@@ -1,6 +1,8 @@
 # lenovo-wwan-unlock
 FCC and DPR unlock for Lenovo PCs
 
+Fork for Pop!_OS
+
 Instructions to perform FCC unlock and SAR config:
 
 -----------------------------------------------------------------
